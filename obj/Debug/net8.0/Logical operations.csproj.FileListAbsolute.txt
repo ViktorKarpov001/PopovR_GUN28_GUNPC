@@ -1,0 +1,14 @@
+D:\VS_app_Test\Задания по С#\Programming in C#\Logical operations\bin\Debug\net8.0\Logical operations.exe
+D:\VS_app_Test\Задания по С#\Programming in C#\Logical operations\bin\Debug\net8.0\Logical operations.deps.json
+D:\VS_app_Test\Задания по С#\Programming in C#\Logical operations\bin\Debug\net8.0\Logical operations.runtimeconfig.json
+D:\VS_app_Test\Задания по С#\Programming in C#\Logical operations\bin\Debug\net8.0\Logical operations.dll
+D:\VS_app_Test\Задания по С#\Programming in C#\Logical operations\bin\Debug\net8.0\Logical operations.pdb
+D:\VS_app_Test\Задания по С#\Programming in C#\Logical operations\obj\Debug\net8.0\Logical operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_app_Test\Задания по С#\Programming in C#\Logical operations\obj\Debug\net8.0\Logical operations.AssemblyInfoInputs.cache
+D:\VS_app_Test\Задания по С#\Programming in C#\Logical operations\obj\Debug\net8.0\Logical operations.AssemblyInfo.cs
+D:\VS_app_Test\Задания по С#\Programming in C#\Logical operations\obj\Debug\net8.0\Logical operations.csproj.CoreCompileInputs.cache
+D:\VS_app_Test\Задания по С#\Programming in C#\Logical operations\obj\Debug\net8.0\Logical operations.dll
+D:\VS_app_Test\Задания по С#\Programming in C#\Logical operations\obj\Debug\net8.0\refint\Logical operations.dll
+D:\VS_app_Test\Задания по С#\Programming in C#\Logical operations\obj\Debug\net8.0\Logical operations.pdb
+D:\VS_app_Test\Задания по С#\Programming in C#\Logical operations\obj\Debug\net8.0\Logical operations.genruntimeconfig.cache
+D:\VS_app_Test\Задания по С#\Programming in C#\Logical operations\obj\Debug\net8.0\ref\Logical operations.dll
